@@ -1,6 +1,6 @@
 ## Hi there 👀 I'm Junior Developer
 
-🔥 But I'm currently study hard 🔥 <br>
+🔥 I'm currently study hard 🔥 <br>
 🐲 I want to be Full-Stack Developer 🐲
 
 ##
