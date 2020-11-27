@@ -2,8 +2,7 @@
 
 ### 🔥 I'm currently study hard 🔥 <br> 🐲 I want to be Full-Stack Developer 🐲
 
-        How long I've been doing it for this week...👀
-
+How long I've been doing it for this week...👀
 [![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
 
 ##
