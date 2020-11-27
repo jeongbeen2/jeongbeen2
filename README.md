@@ -2,10 +2,6 @@
 
 ### 🔥 I'm currently study hard 🔥 <br> 🐲 I want to be Full-Stack Developer 🐲
 
-How long I've been doing it for this week...👀
-
-[![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
-
 ##
 
 **Main Language**  
@@ -21,5 +17,9 @@ How long I've been doing it for this week...👀
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 
 ##
+
+How long I've been doing it for this week...👀
+
+[![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
 
 ![JeongBeenKim's github stats](https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true)
