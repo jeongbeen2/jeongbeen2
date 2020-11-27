@@ -1,7 +1,10 @@
 ## Hi there 👀 I'm Junior Developer
 
-🔥 I'm currently study hard 🔥 <br>
+# 🔥 I'm currently study hard 🔥 <br>
+
 🐲 I want to be Full-Stack Developer 🐲
+
+[![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
 
 ##
 
@@ -19,4 +22,4 @@
 
 ##
 
-![JeongBeenKim's github stats](https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true)[![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
+![JeongBeenKim's github stats](https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true)
