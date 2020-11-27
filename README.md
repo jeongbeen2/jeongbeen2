@@ -19,5 +19,4 @@
 
 ##
 
-![JeongBeenKim's github stats](https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue)
-[![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N)](https://wakatime.com/@JB2N)
+![JeongBeenKim's github stats](https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true)[![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
