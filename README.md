@@ -28,6 +28,6 @@ How long I've been doing it for this week...👀
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true"  width=100%
   height=auto />
   
-<a href="https://wakatime.com/@JB2N">
+<!-- <a href="https://wakatime.com/@JB2N">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)"  width=70%
-  height=auto />
+  height=auto /> -->
