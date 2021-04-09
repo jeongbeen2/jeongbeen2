@@ -5,7 +5,7 @@
 ![JeongBeenKim's github stats](https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true) -->
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true"  width=70%
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true"  width=50%
   height=auto />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbeen2&layout=compact)](https://github.com/jeongbeen2)  
