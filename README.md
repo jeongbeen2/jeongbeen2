@@ -8,8 +8,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeongbeen2&show_icons=true&theme=vue&hide_border=true"  width=70%
   height=auto />
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbeen2&layout=compact)](https://github.com/jeongbeen2)  
+
 <a href="https://wakatime.com/@JB2N">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)"  width=70%
   height=auto />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbeen2&layout=compact)](https://github.com/jeongbeen2)
+
