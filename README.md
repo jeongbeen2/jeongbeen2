@@ -9,8 +9,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbeen2&layout=compact&hide_border=true)](https://github.com/jeongbeen2)  
 
-<a href="https://wakatime.com/@JB2N">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)"  width=60%
-  height=auto />
 
 
