@@ -10,5 +10,3 @@
 
 
 [![JeongBeenKim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
-
-[![JB wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JB2N&hide_border=true)](https://wakatime.com/@JB2N)
