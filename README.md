@@ -1,7 +1,7 @@
 
 ## 🧑‍💻 Front-end Developer, JeongBeen <br/>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://www.notion.so/Jay-Note-095ce3f8708949c3a20df6b64bf77502)](https://www.notion.so/Jay-Note-095ce3f8708949c3a20df6b64bf77502) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/booookjb/)](https://www.instagram.com/booookjb/)
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://www.notion.so/Jay-Note-095ce3f8708949c3a20df6b64bf77502)](https://www.notion.so/Jay-Note-095ce3f8708949c3a20df6b64bf77502) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/booookjb/)](https://www.instagram.com/booookjb/) -->
 
 💻&nbsp;&nbsp;&nbsp;프론트앤드 개발자 입니다. </br>
 ⏰&nbsp;&nbsp;&nbsp;꾸준하고 계획적인 삶을 살기 위하여 노력중입니다.</br>
